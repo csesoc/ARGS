@@ -1,4 +1,4 @@
-# UNSW CSESoc Lab 0 2020
+# UNSW CSESoc ARG Event 2020
 ---
 
 ![UNSW CSESoc Logo](site/assets/img/csesocgreyblue.png)
@@ -14,7 +14,9 @@ Solved questions appear green to users. They also receive points for each questi
 
 The admin can view a user's username, points and solves. They can also delete a user.
 
-Users can be viewed sorted by:
+<< Sorting order may need changing >>
+
+Users can be viewed sorted by: 
 - Username (Descending)
 - Username (Ascending)
 - Points (Descending)
@@ -90,6 +92,9 @@ password = password     # Superuser password
 This project was originally created by Andrew Wong for the CSESoc Compclub 2019 Summer CTF.
 
 It has been modified by Michael Gribben for CSESoc's [Lab 0](https://lab0.tech/invite/).
+
+It has then been modified again for CSESoc's [ARG-Event] by Ryan Shi, Hillary Le (graphics) and Kellen Liew (with help from Van-Roy Trinh and Frances Lee). 
+
 
 ### Server (Python)
 [`Jinja2`](http://jinja.pocoo.org) - _Version 2.10.1_  
